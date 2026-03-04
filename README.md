@@ -52,9 +52,10 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenchuyenhoa14-hub&theme=radical" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nguyenchuyenhoa14-hub&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Funny-Zega&theme=radical" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Funny-Zega&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
 </p>
 
 
 <br/>
+
