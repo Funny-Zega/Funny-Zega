@@ -4,12 +4,9 @@
 # Hi there, I'm Dong Nguyen Khanh Duy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!-- HIỆU ỨNG CHỮ CHẠY (Typing Effect) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=RTL+Design+%2F+DFT+Engineer;Computer+Engineering+Student;Hardware+Enthusiast+%F0%9F%9B%A0%EF%B8%8F;HCMUT+Undergraduate" alt="Typing SVG" />
-</a>
-
-<br/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Design+Verification+%2F+DFT+Engineer;Computer+Engineering+Student+;Hardware+Enthusiast;HCMUT+Undergraduate"/>
+</p>
 <!-- GIỚI THIỆU NGẮN GỌN -->
 I am passionate about **Digital Logic Design**, **Computer Architecture**, and **Embedded Systems**.<br/>
 My goal is to build efficient hardware solutions, from designing RISC-V processors to implementing secure SHA3-256 on FPGAs.
