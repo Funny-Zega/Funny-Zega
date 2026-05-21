@@ -14,7 +14,7 @@ I am passionate about the backend VLSI flow (Physical Design & DFT). I focus on 
 <!-- THÔNG TIN -->
 • **Education:** 3rd-year Student at Ho Chi Minh City University of Technology (VNU-HCM) <br/>
 • **Focus:** Physical Design , DFT   <br/>
-• **Learning:** Microprocessor-Microcontrolle & Electrical and Electronic Circuits & System on Chip & Digital Signal Processing   <br/>
+• **Learning:** Microprocessor-Microcontroller & Electrical and Electronic Circuits & System on Chip & Digital Signal Processing   <br/>
 • **Contact:** duy.dong4125@hcmut.edu.vn
 
 <br/>
