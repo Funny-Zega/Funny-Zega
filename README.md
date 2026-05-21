@@ -14,10 +14,10 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 <br/>
 
 <!-- THÔNG TIN -->
-• 🎓 **Education:** 3rd-year Student at Ho Chi Minh City University of Technology (VNU-HCM) <br/>
-• 🔭 **Focus:** Physical Design , DFT   <br/>
-• 🌱 **Learning:** Microprocessor-Microcontrolle & Electrical and Electronic Circuits & System on Chip & Digital Signal Processing  &   <br/>
-• 💬 **Contact:** duy.dong4125@hcmut.edu.vn
+• **Education:** 3rd-year Student at Ho Chi Minh City University of Technology (VNU-HCM) <br/>
+• **Focus:** Physical Design , DFT   <br/>
+• **Learning:** Microprocessor-Microcontrolle & Electrical and Electronic Circuits & System on Chip & Digital Signal Processing  &   <br/>
+• **Contact:** duy.dong4125@hcmut.edu.vn
 
 <br/>
 <br/>
@@ -40,7 +40,7 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 <img src="https://img.shields.io/badge/Xilinx%20FPGA-PE-C8102E?style=for-the-badge&logo=amd&logoColor=white" />
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<!--<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />-->
 
 <br/>
 <br/>
