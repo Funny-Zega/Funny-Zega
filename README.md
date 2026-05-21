@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Physical+Design+%2F+DFT+Engineer;Computer+Engineering+Student+;Hardware+Enthusiast;HCMUT+Undergraduate"/>
 </p>
 <!-- GIỚI THIỆU NGẮN GỌN -->
-I am passionate about **Digital Logic Design**, **Computer Architecture**, and **Embedded Systems**.<br/>
+I am passionate about **Physical Design**, **DFT**, and **Computer Architecture**.<br/>
 My goal is to build efficient hardware solutions, from designing RISC-V processors to implementing secure SHA3-256 on FPGAs.
 
 <br/>
