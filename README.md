@@ -15,8 +15,8 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 
 <!-- THÔNG TIN -->
 • 🎓 **Education:** 3rd-year Student at Ho Chi Minh City University of Technology (VNU-HCM) <br/>
-• 🔭 **Focus:** SoC Design and Intergrated Circuit , Embedded System  <br/>
-• 🌱 **Learning:** Digital Signal Processing &  Microprocessor-Microcontrolle & Electrical and Electronic Circuits & System on Chip <br/>
+• 🔭 **Focus:** Physical Design , DFT   <br/>
+• 🌱 **Learning:** Microprocessor-Microcontrolle & Electrical and Electronic Circuits & System on Chip & Digital Signal Processing  &   <br/>
 • 💬 **Contact:** duy.dong4125@hcmut.edu.vn
 
 <br/>
