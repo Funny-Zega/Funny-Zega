@@ -23,7 +23,7 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 <br/>
 
 <!-- TECH STACK (BADGE ĐỒNG BỘ) -->
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <!-- Dòng 1: Languages -->
 <img src="https://img.shields.io/badge/Verilog-B7171D?style=for-the-badge&logo=chip&logoColor=white" />
@@ -46,7 +46,7 @@ My goal is to build efficient hardware solutions, from designing RISC-V processo
 <br/>
 
 <!-- THỐNG KÊ (GITHUB STATS) -->
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Funny-Zega&theme=radical" height="150" />
