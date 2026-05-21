@@ -8,15 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Physical+Design+%2F+DFT+Engineer;Computer+Engineering+Student+;Hardware+Enthusiast;HCMUT+Undergraduate"/>
 </p>
 <!-- GIỚI THIỆU NGẮN GỌN -->
-I am passionate about **Physical Design**, **DFT**, and **Computer Architecture**.<br/>
-My goal is to build efficient hardware solutions, from designing RISC-V processors to implementing secure SHA3-256 on FPGAs.
-
+I am passionate about the backend VLSI flow (Physical Design & DFT). I focus on transforming logical designs (RISC-V, Cryptographic Accelerators(SHA3-256)) into highly testable, PPA-optimized silicon.
 <br/>
 
 <!-- THÔNG TIN -->
 • **Education:** 3rd-year Student at Ho Chi Minh City University of Technology (VNU-HCM) <br/>
 • **Focus:** Physical Design , DFT   <br/>
-• **Learning:** Microprocessor-Microcontrolle & Electrical and Electronic Circuits & System on Chip & Digital Signal Processing  &   <br/>
+• **Learning:** Microprocessor-Microcontrolle & Electrical and Electronic Circuits & System on Chip & Digital Signal Processing   <br/>
 • **Contact:** duy.dong4125@hcmut.edu.vn
 
 <br/>
