@@ -12,7 +12,7 @@ I am passionate about the backend VLSI flow (DFT & PD). I focus on transforming 
 <br/>
 
 <!-- THÔNG TIN -->
-• **Education:** 3rd-year Student at Ho Chi Minh City University of Technology (VNU-HCM) <br/>
+• **Education:** 4th-year Student at Ho Chi Minh City University of Technology (VNU-HCM) <br/>
 • **Focus:** Physical Design , DFT   <br/>
 • **Learning:** Microprocessor-Microcontroller & Electrical and Electronic Circuits & System on Chip & Digital Signal Processing   <br/>
 • **Contact:** duy.dong4125@hcmut.edu.vn
